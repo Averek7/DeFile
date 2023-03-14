@@ -1,0 +1,23 @@
+.collection-container {
+  padding: 10px;
+  z-index: 1;
+  background-color: #010126;
+}
+.col-container {
+  display: flex;
+  justify-content: center;
+  padding: 0px 25px;
+}
+
+.collection-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-container {
+  margin: 10px;
+  padding: 15px;
+}
+
