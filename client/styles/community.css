@@ -1,0 +1,10 @@
+.community-container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #000036;
+  z-index: 1;
+}
+.header{
+  padding: 15px;
+}
